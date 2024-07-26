@@ -1,0 +1,226 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    display: block;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+header h1 {
+    letter-spacing: 1px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Raleway', sans-serif;
+}
+
+.heading-0 {
+    font-weight: 500;
+    font-family: 'Oswald', sans-serif;
+}
+
+.colors {
+    padding: 10px;
+    display: block;
+    border: 2px solid rgb(162, 162, 166);
+    font-weight: 500;
+    font-family: 'Open Sans', sans-serif;
+    margin-bottom: 20px;
+}
+
+.colors div {
+    color: white;
+    margin-bottom: 10px;
+    line-height: 35px;
+    display: inline-block;
+    text-align: center;
+    padding: 20px;
+    width: 425px;
+}
+
+.cool-blue {
+    background-color: #2d5dcc;
+}
+
+.pink {
+    background-color: #d957d9;
+}
+
+.grey {
+    background-color: #a2a2a6;
+}
+
+.beige {
+    background-color: #efd9ca;
+}
+
+.mint-green {
+    background-color: #4fe0b0;
+}
+
+.red {
+    background-color: #fc0303;
+}
+
+.black {
+    background-color: #000000;
+}
+
+.gold {
+    background-color: #FFD700;
+}
+
+.diamond {
+    background-color: #b9f2ff;
+}
+
+.fonts {
+    display: block;
+    padding: 10px;
+    border: 2px solid rgb(162, 162, 166);
+    margin-bottom: 20px;
+}
+
+ .fonts div{
+    display: inline-block;
+    line-height: 35px;
+    margin-right: 75px;
+    margin-bottom: 10px;
+}
+
+.fonts div h2{
+    text-decoration: underline;
+}
+
+.fonts .bold{
+    font-weight: bold;
+}
+
+.fonts .italic{
+    font-style: italic;
+}
+
+.heading {
+    font-weight: 500;
+    font-family: 'Oswald', sans-serif;
+}
+
+.raleway h2, .raleway p{
+    font-weight: 400;
+    font-family: 'Raleway', sans-serif;
+}
+
+.roboto h2, .roboto p{
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+}
+
+.open-sans h2, .open-sans p{
+    font-weight: 400;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.oswald h2, .oswald p{
+    font-weight: 400;
+    font-family: 'Oswald', sans-serif;
+}
+
+.ubuntu h2, .ubuntu p{
+    font-weight: 400;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.poppins h2, .poppins p{
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+}
+
+.text-styles {
+    display: block;
+    padding: 10px;
+    border: 2px solid rgb(162, 162, 166);
+}
+
+.heading-1 {
+    font-weight: 500;
+    font-family: 'Oswald', sans-serif;
+    font-size: 24px;
+}
+
+li{
+    font-weight: 400;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 35px;
+}
+
+.main-heading {
+    display: block;
+}
+
+.main-heading div{
+    display: inline-block;
+    margin-right: 200px;
+}
+
+.h1-raleway h1{
+    font-size: 26px;
+    font-weight: 700;
+    font-family: 'Raleway', sans-serif;
+}
+
+.h1-poppins h1{
+    font-size: 26px;
+    font-weight: 700;
+    font-family: 'Poppins', sans-serif;
+}
+
+.sub-heading {
+    display: block;
+}
+
+.sub-heading div{
+    display: inline-block;
+    margin-right: 295px;
+}
+
+.h2-oswald h2{
+    font-size: 24px;
+    font-weight: 500;
+    font-family: 'Oswald', sans-serif;
+}
+
+.h2-roboto h2{
+    font-size: 24px;
+    font-weight: 500;
+    font-family: 'Roboto', sans-serif;
+}
+
+.paragraph {
+    display: block;
+}
+
+.paragraph div{
+    display: inline-block;
+    margin-right: 250px;
+}
+
+.p-open-sans p{
+    font-size: 18px;
+    font-weight: 400;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.p-ubuntu p{
+    font-size: 18px;
+    font-weight: 400;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.p-ubuntu li{
+    font-size: 18px;
+    font-weight: 400;
+    font-family: 'Ubuntu', sans-serif;
+}
