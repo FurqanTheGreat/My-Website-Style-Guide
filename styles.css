@@ -8,6 +8,8 @@ body {
     display: block;
     margin-left: 100px;
     margin-right: 100px;
+    min-width: 890px;
+    max-width: 1400px;
 }
 
 header h1 {
